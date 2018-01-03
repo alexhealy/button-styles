@@ -31,6 +31,7 @@ a {
   background-color: #ccc;
   color: #fff;
   border-width: 3px;
+  font-size: 1.125rem;
 }
 
 .btn-ghost {
@@ -38,6 +39,7 @@ a {
   color: #333;
   border-width: 3px;
   border-style: solid;
+  font-size: 1.125rem;
   border-color: #333;
 }
 
@@ -45,6 +47,7 @@ a {
   background-color: #f33;
   color: #fff;
   border-width: 3px;
+  font-size: 1.125rem;
 }
 
 .btn-small {
