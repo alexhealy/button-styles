@@ -14,8 +14,6 @@ div {
 
 a {
   text-decoration: none;
-  padding: .5em;
-  border-radius: 8px;
   display: inline-block;
 }
 
@@ -24,14 +22,16 @@ a {
   background-color: #333;
   color: #fff;
   border-width: 3px;
-
+  font-size: 1.125rem;
+  border: 3px solid #333;
+  border-radius: 8px;
+  padding: .4em .75em .3em;
 }
 
 .btn-subtle {
   background-color: #ccc;
   color: #fff;
-  border-width: 3px;
-  font-size: 1.125rem;
+  border-color: #ccc;
 }
 
 .btn-ghost {
@@ -39,7 +39,6 @@ a {
   color: #333;
   border-width: 3px;
   border-style: solid;
-  font-size: 1.125rem;
   border-color: #333;
 }
 
@@ -47,7 +46,7 @@ a {
   background-color: #f33;
   color: #fff;
   border-width: 3px;
-  font-size: 1.125rem;
+  border-color: #f33;
 }
 
 .btn-small {
